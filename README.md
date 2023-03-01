@@ -31,8 +31,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/ECLIPSE IDE-2C2255?style=for-the-badge&logo=ECLIPSE IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <br/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Bitbucket&logoColor=white"/>
 </p>
 
 ![limyohwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=limyohwan&show_icons=true&theme=dark)
