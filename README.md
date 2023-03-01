@@ -1,9 +1,7 @@
 ### 👋 Hi there 
-
 <p>
   I'm backend developer skilled in API, WEB <br/>
   I have experience 2 years of Java Spring development in SI projects. <br/>
-  I study hard to join service company. <br/>
   At present, I have been interested in creating REST-API with Spring Boot <br/>
   and Infrastructure(Docker, Jenkins, MSA) <br/>
 <p>
