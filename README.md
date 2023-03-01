@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=for-the-badge&logoColor=white">
 </p>
-<br/>
 
 ### Tools
 <p>
@@ -35,8 +34,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <br/>
 </p>
-<br/>
-
 
 ![limyohwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=limyohwan&show_icons=true&theme=dark)
 
