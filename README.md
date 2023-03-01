@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-  <h4>Skills</h4>
+  <h4>💪Skills</h4>
   <p>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-    <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=for-the-badge&logoColor=white">
+    
   </p>
+  <br>
 
   ![limyohwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=limyohwan&show_icons=true&theme=dark)
 
