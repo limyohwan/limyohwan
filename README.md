@@ -5,13 +5,13 @@
   I have experience 2 years of Java Spring development in SI projects. <br/>
   I study hard to join service company. <br/>
   At present, I have been interested in creating REST-API with Spring Boot <br/>
-  and Infrastructure(Docker, Jenkins, k8s) <br/>
+  and Infrastructure(Docker, Jenkins, MSA) <br/>
 <p>
   
 ### 💪Skills
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 <br/>
 
