@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 <p>
   I'm backend developer skilled in API, WEB <br/>
