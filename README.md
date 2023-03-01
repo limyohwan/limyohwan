@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 </p>
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gitlab-181717?style=for-the-badge&logo=Gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-181717?style=for-the-badge&logo=Bitbucket&logoColor=white"/>
 </p>
 
 ![limyohwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=limyohwan&show_icons=true&theme=dark)
