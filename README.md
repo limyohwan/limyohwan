@@ -1,9 +1,11 @@
 ### 👋 Hi there 
 <p>
-  I'm backend developer skilled in API, WEB <br/>
-  I have experience 2 years of Java Spring development in SI projects. <br/>
-  At present, I have been interested in creating REST API with Spring Boot <br/>
-  and learning infrastructure(Docker, Jenkins, Spring Cloud) <br/>
+  I study hard to be a good developer. <br>
+  Because I want <br>
+  to work in a better environment, <br>
+  to develop better with clean code, <br>
+  to make better products, <br>
+  to work with great colleagues. <br>
 <p>
   
 ### 💪 Skills
