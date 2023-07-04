@@ -1,11 +1,10 @@
 ### 👋 Hi there 
 <p>
   I study hard to be a good developer. <br>
-  Because I want <br>
-  to work in a better environment, <br>
-  to develop better with clean code, <br>
-  to make better products, <br>
-  to work with great colleagues. <br>
+  Because I want to work in a good development culture <br>
+  I want to write clean code, <br>
+  I want to make better products, <br>
+  I want to work with great colleagues. <br>
 <p>
   
 ### 💪 Skills
