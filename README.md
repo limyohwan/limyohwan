@@ -1,12 +1,6 @@
 ### 👋 Hi there 
-<p>
-  I study hard to be a good developer. <br>
-  Because I want to work in a good development culture <br>
-  I want to write clean code, <br>
-  I want to make better products, <br>
-  I want to work with great colleagues. <br>
-<p>
-  
+nice to meet you
+
 ### 💪 Skills
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
