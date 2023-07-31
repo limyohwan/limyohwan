@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-nice to meet you
+협력을 중시하며 책임을 다하는 백엔드 개발자 임요환입니다.
 
 ### 💪 Skills
 <p>
